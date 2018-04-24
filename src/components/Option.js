@@ -10,7 +10,7 @@ const Option = (props) => (
       }}
     >
       remove
-      </button>
+    </button>
   </div>
 );
 
